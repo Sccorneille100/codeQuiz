@@ -17,7 +17,8 @@ A JavaScript Quiz with multiple choice questions, a timer, and high scores!
 [JavaScript Quiz Game](https://achigas.github.io/CodeQuiz-Challenge4/)
 
 ## Screenshots
-![Question Screenshot](./assets/images/QuizGame.png)
+![QuizGame](https://github.com/Sccorneille100/codeQuiz/assets/127679758/8728d895-ef87-4d52-9c14-0400ff0952f8)
+
 
 ## Code 
 * HTML
