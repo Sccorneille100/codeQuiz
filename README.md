@@ -8,7 +8,6 @@ JavaScript Code Quiz
 * [Code](#Code)
 * [Status](#status)
 * [Inspiration](#inspiration)
-* [Contact](#contact)
 
 ## General info
 A JavaScript Quiz with multiple choice questions, a timer, and high scores!
